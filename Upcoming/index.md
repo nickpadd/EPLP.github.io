@@ -5,7 +5,8 @@ ________________________________________________________________________________
     }
 </style>
 
-## [Home](https://elasticalist.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://elasticalist.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://elasticalist.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://elasticalist.github.io/Upcoming/ "The predictions of the upcoming matches")
+## [Home](https://nickpadd.github.io/EPLP.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EPLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EPLP.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://nickpadd.github.io/EPLP.github.io/Upcoming/ "The predictions of the upcoming matches") 
+
 
 ## Upcoming Match Predictions
 
