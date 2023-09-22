@@ -1,0 +1,11 @@
+theme: jekyll-theme-tactile
+title: EnglishPremierLeague Predictor
+description: Football predictions using machine learning 
+defaults:
+  - scope:
+      path: "/Home/"
+      type: "pages"
+    values:
+      layout: "page"  # You can use "page" or another layout you prefer
+
+   
