@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 
 ## Model Evaluation
-For the hyperparameter optimisation a random shuffling technique was used. The results showed a consistent overperformance of the bookmakers' odds in betting 'Under 2.5 Goals' as depicted below:
+For the hyperparameter optimisation a random shuffling technique was used to optimise the profit for all the games from 2017-2021, with 2022 season excluded. The results showed a consistent overperformance of the bookmakers' odds in betting 'Under 2.5 Goals' as depicted below:
 
 ![Evaluation of the Under 2.5 Goals betting](ExamplePlotProfit.png?raw=true)
 *The performance of Under 2.5 Goals betting on repeated shuffled games. On the upper figure the balance and balance% can be seen with their respective confidence intervals. On the lower figure an indicative betting amount in comparison with the return of the bet can be seen.*
