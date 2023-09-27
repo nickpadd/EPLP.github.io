@@ -21,3 +21,8 @@ A more detailed view of the estimated probabilites predicted by the model in the
 
 <iframe src="UpcomingMatchesPrediction.html" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe> 
 *A table of the model's predictions of the upcoming premier league games. The most popular bets are shown such as (GG, NG) which refers to GoalGoal and NoGoal, (Over,Under) which refers to Over 2.5 Goals and Under 2.5 Goals, and HomeWin, Draw and AwayWin.*
+
+
+
+<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101427978"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script async data-id="101427978" src="//static.getclicky.com/js"></script>
