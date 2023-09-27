@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 ## Upcoming Match Predictions
 
-The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure:
+The predicted results of the following premier league matches in comparison with the bookmaker's odds can be seen in the following figure (**Unfortunately not yet working on mobile devices**):
 
 <iframe src="UpcomingMatchesPredictionFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -250px;"></iframe> 
 *The model predictions of the upcoming Premier League games compared to the bookmaker odds. On the left a radar plot is visible containing the most popular bets with the model predictions in light green and the Bookmakers' predictions in dark blue. On the right side a bar plot of the model's prediction for the most probable scorelines is visible.*
