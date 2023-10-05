@@ -26,7 +26,7 @@ A more detailed view of the estimated probabilites predicted by the model in the
 
 To evaluate the ongoing season predictions of the model we created the following figure which incorporates the predictions of the model and compares them to the actual results. This is accomplished by grouping the games per month in order to be able to derive a safer view of the performance:
 
-<iframe src="SeasonPredictionEvaluation.html" width="1100" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
+<iframe src="SeasonPredictionEvaluation.html" width="1100" height="600" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 *The predictions of the model for the ongoing season for Over/Under, Home/Draw/Away as well as Home/Away Goals compared to the actual results. The results and predictions are grouped per month in order to have a safer evaluation of the predictions* 
 
 <a title="GDPR-compliant Web Analytics" href="https://clicky.com/101427978"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
