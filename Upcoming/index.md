@@ -29,5 +29,14 @@ To evaluate the ongoing season predictions of the model we created the following
 <iframe src="SeasonPredictionEvaluation.html" width="1100" height="1000" frameborder="0" allowfullscreen="true" scrolling="no"></iframe>
 *The predictions of the model for the ongoing season for Over/Under, Home/Draw/Away as well as Home/Away Goals compared to the actual results. The results and predictions are grouped per month in order to have a safer evaluation of the predictions* 
 
-<a title="GDPR-compliant Web Analytics" href="https://clicky.com/101427978"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async data-id="101427978" src="//static.getclicky.com/js"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RE6NB27P4L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RE6NB27P4L');
+</script>
+
