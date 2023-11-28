@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 ## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Ligue_1/ "The predictions of the upcoming matches") 
 
-## [EPL](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "Predictions for EPL") | [Bundesliga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Bundesliga/Model/ "Predictions for Bundesliga") | [La_Liga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/La_Liga/ "Predictions for La_Liga") | [Serie_A](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Serie_A/ "Predictions for Serie_A") | [Ligue_1](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Ligue_1/ "Predictions for Ligue_1")
+## [EPL](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "Predictions for EPL") | [Bundesliga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Bundesliga/ "Predictions for Bundesliga") | [La_Liga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/La_Liga/ "Predictions for La_Liga") | [Serie_A](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Serie_A/ "Predictions for Serie_A") | [Ligue_1](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Ligue_1/ "Predictions for Ligue_1")
 
 ## Upcoming Match Predictions
 
