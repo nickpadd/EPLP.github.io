@@ -20,7 +20,7 @@ The figure depicts a radar plot of the most popular bets which includes both the
 
 A more detailed view of the estimated probabilites predicted by the model in the different betting categories can be seen below:
 
-<iframe src="PredictionTable.html" width="3000" height="800" frameborder="0" allowfullscreen="true" scrolling="no"></iframe> 
+<iframe src="PredictionTable.html" width="3000" height="800" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -500px;"></iframe> 
 *A table of the model's predictions of the upcoming La_Liga games. The most popular bets are shown such as (GG, NG) which refers to GoalGoal and NoGoal, (Over,Under) and HomeWin, Draw and AwayWin.*
 
 
