@@ -18,12 +18,7 @@ The predicted results of the following Bundesliga matches in comparison with the
 
 The figure depicts a radar plot of the most popular bets which includes both the predicted probabilities and the probability assigned by the bookmaker as a conversion of the odds.
 
-A more detailed view of the estimated probabilites predicted by the model in the different betting categories can be seen below:
-
-<iframe src="PredictionTable.html" width="3000" height="800" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -500px;"></iframe> 
-*A table of the model's predictions of the upcoming Bundesliga games. The most popular bets are shown such as (GG, NG) which refers to GoalGoal and NoGoal, (Over,Under) and HomeWin, Draw and AwayWin.*
-
-
+To download a more detailed table with predictions and bookmaker odds: <a href="PredictionTable.html" download="Bundesliga_Predictions.html">Download File</a>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RE6NB27P4L"></script>
