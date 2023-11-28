@@ -1,6 +1,6 @@
 theme: jekyll-theme-tactile
-title: EnglishPremierLeague Predictor
-description: Football predictions using machine learning 
+title: European Football League Predictor
+description: Top European football league predictions using machine learning 
 defaults:
   - scope:
       path: "/Home/"
