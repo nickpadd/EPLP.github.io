@@ -1,12 +1,12 @@
 ________________________________________________________________________________________________________________________________
-## [Home](https://nickpadd.github.io/EPLP.github.io/Home/ "EnglishPremierLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EPLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EPLP.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://nickpadd.github.io/EPLP.github.io/Upcoming/ "The predictions of the upcoming matches") 
+## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/ "Past season performance of the model") | [Upcoming Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "The predictions of the upcoming matches") 
 
 
 ## The Project
 
-EnglishPremierLeaguePredictor is a predictor of Premier League games based on historic performances of teams, taking into account advanced league table statistics. It uses traditional machine learning techniques and statistical modeling in order to deduct data-driven predictions based on the team's season performance and recent form. The model evaluation has shown promising results on predicting past seasons, proving its capability to be profitable using certain betting strategies something that could provide impactful data-driven insights for either the bookmaker as well as the bettor.
+EuropeanFootballLeaguePredictor is a predictor of europes top league games based on historic performances of teams, taking into account only advanced league table statistics. It uses traditional machine learning techniques and statistical modeling in order to deduct data driven predictions based on the team’s season performance and recent form. The EuropeanFootballLeaguePredictor includes EnglishPremierLegue, La Liga, Ligue 1, Bundesliga, Serie A.
 
-Follow the [Github repository](https://github.com/nickpadd/EnglishPremierLeaguePredictor "The predictions of the upcoming matches") to stay updated with the new enchancements and upgrades and consider [supporting](https://www.buymeacoffee.com/nickpadd) to help me improve the project further.
+Follow the [Github repository](https://github.com/nickpadd/EuropeanFootballLeaguePredictor "The predictions of the upcoming matches") to stay updated with the new enchancements and upgrades and consider [supporting](https://www.buymeacoffee.com/nickpadd) to help me improve the project further.
 
 ## Betting Disclaimer
 
@@ -14,6 +14,4 @@ The EnglishPremierLeaguePredictor project and its associated predictions are pro
 
 Betting involves risks, and there is no guarantee that the predictions provided by this project will result in accurate outcomes or profitable bets. The outcomes of sports events can be influenced by a wide range of variables that may not be fully captured by the prediction model.
 
-<a title="Google Analytics Alternative" href="https://clicky.com/101427443"><img alt="Clicky" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
-<script async data-id="101427443" src="//static.getclicky.com/js"></script>
 
