@@ -5,7 +5,7 @@
 The main betting points performance of the model with the configuration of {Regressor: Poisson Regressor, LongTermFormVote/ShortTermFormVote: 0.6/0.4, kelly_cap: 0.05, LongTermFormMonths/ShortTermFormMonths: Season, 3 Months} this year can be tracked with the below figures. The ROI indicator is the most indicative as it represents the percentage of the :
 
 ### Home Win Bet Performance
-![Home Win Bet Performance](home_win_figure.png)
+[![Home Win Bet Performance](home_win_figure.png)](home_win_figure.png)
 
 ### Away Win Bet Performance
 ![Away Win Bet Performance](away_win_figure.png)
