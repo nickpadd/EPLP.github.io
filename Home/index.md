@@ -1,5 +1,5 @@
 ________________________________________________________________________________________________________________________________
-## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/leagues/EPL "Past season performance of the model") | [Evaluation Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "The predictions of the upcoming matches") 
+## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/leagues/EPL/ "Past season performance of the model") | [Evaluation Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "The predictions of the upcoming matches") 
 
 
 ## The Project
