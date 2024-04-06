@@ -1,12 +1,12 @@
 ________________________________________________________________________________________________________________________________
-## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/leagues/EPL/ "Past season performance of the model") | [Evaluation Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "The predictions of the upcoming matches") 
+## [Home](https://nickpadd.github.io/EFLP.github.io/Home/ "EuropeanFootballLeaguePredictor Home page") | [The Model](https://nickpadd.github.io/EFLP.github.io/Model/ "Learn more about the model") | [Model Evaluation](https://nickpadd.github.io/EFLP.github.io/Evaluation/leagues/EPL/ "Past season performance of the model") | [Upcoming Matches](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "The predictions of the upcoming matches") 
 
 
 ## The Project
 
 EuropeanFootballLeaguePredictor is a predictor of europes top league games based on historic performances of teams, taking into account only advanced league table statistics. It uses traditional machine learning techniques and statistical modeling in order to deduct data driven predictions based on the team’s season performance and recent form. The EuropeanFootballLeaguePredictor includes EnglishPremierLegue, La Liga, Ligue 1, Bundesliga, Serie A.
 
-Follow the [Github repository](https://github.com/nickpadd/EuropeanFootballLeaguePredictor "The predictions of the upcoming matches") to stay updated with the new enchancements and upgrades and consider [supporting](https://www.buymeacoffee.com/nickpadd) to help me improve the project further.
+Follow the [Github repository](https://github.com/nickpadd/EuropeanFootballLeaguePredictor "The github repository of the project") to stay updated with the new enchancements and upgrades and consider [supporting](https://www.buymeacoffee.com/nickpadd) to help me improve the project further.
 
 ## Betting Disclaimer
 
