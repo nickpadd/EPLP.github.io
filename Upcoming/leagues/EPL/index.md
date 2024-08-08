@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ## [EPL](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/EPL/ "Predictions for EPL") | [Bundesliga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Bundesliga/ "Predictions for Bundesliga") | [La_Liga](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/La_Liga/ "Predictions for La_Liga") | [Serie_A](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Serie_A/ "Predictions for Serie_A") | [Ligue_1](https://nickpadd.github.io/EFLP.github.io/Upcoming/leagues/Ligue_1/ "Predictions for Ligue_1")
 
 ## Upcoming Match Predictions
-
+## IMPORTANT: NEW SEASON PREDICTIONS WILL START FROM MATCHDAY 4 AND ONWARDS AS THE MODEL NEEDS SOME MATCHDAYS TO CALIBRATE ON THE TEAM'S STATISTICS
 The predicted results of the following EPL matches in comparison with the bookmaker's odds can be seen in the following figure (**Unfortunately not working on mobile devices**):
 
 <iframe src="InteractiveFigure.html" width="1500" height="700" frameborder="0" allowfullscreen="true" scrolling="no" style="position:relative; top: 0px; left: -250px;"></iframe> 
